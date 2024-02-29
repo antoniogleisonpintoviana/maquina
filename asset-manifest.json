@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maquina/static/css/main.e6c13ad2.css",
+    "main.js": "/maquina/static/js/main.5c5026e2.js",
+    "static/js/453.700a6657.chunk.js": "/maquina/static/js/453.700a6657.chunk.js",
+    "index.html": "/maquina/index.html",
+    "main.e6c13ad2.css.map": "/maquina/static/css/main.e6c13ad2.css.map",
+    "main.5c5026e2.js.map": "/maquina/static/js/main.5c5026e2.js.map",
+    "453.700a6657.chunk.js.map": "/maquina/static/js/453.700a6657.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5c5026e2.js"
+  ]
+}
